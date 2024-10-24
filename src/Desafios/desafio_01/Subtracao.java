@@ -1,4 +1,4 @@
-package Desafios.desafio_01;
+package desafios.desafio_01;
 /*
 Exercícios:
 5- Crie uma classe Subtracao para imprimir o resultado de 10 - 5 no console.
