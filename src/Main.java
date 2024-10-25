@@ -20,5 +20,9 @@ public class Main {
             Ano de lançamento:
             """ + anoDeLancamento;
         System.out.println(sinopse);
+
+        // casting explicito (utilizando operador de casting)
+        int classificacao = (int) (media / 2);
+        System.out.println(classificacao);
     }
 }
