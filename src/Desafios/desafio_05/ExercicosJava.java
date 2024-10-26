@@ -78,6 +78,7 @@ public class ExercicosJava {
                 break;
             default:
                 System.out.println("Opção inválida!");
+                break;
         }
 
         /*
